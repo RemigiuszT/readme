@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second year IT student. 21 years old. Programming in React and python now. Working as python, lua and scratch teacher. Professional dance teacher and creator
+Second year IT student. 21 years old. Programming in React and python now. Working as programming teacher. Professional dance teacher and creator
 
 
 ## 🌐 Socials:
