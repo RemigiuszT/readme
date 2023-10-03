@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second year IT student. 21 years old. Programming in React and python now. Working as programming teacher. Professional dance teacher and creator
+Third year IT student. 21 years old. Programming in React/nodeJS. Working on many projects. Founder of FAN workshops.
 
 
 ## 🌐 Socials:
