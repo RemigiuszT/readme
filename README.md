@@ -1,5 +1,13 @@
 # 💫 About Me:
-Third year IT student. 21 years old. Programming in React/nodeJS. Working on many projects. Founder of FAN workshops.
+Frontend Developer | Mobile Developer
+
+I am an ambitious 4th-year student currently pursuing a master's degree in
+Cybersecurity at WSB University. Previously, I completed my bachelor's degree in
+IT in Business, specializing in front-end development.
+I am passionate about developing front-end applications and place a strong
+emphasis on the quality and independence of software development.
+I am very eager to expand my knowledge through training and mentoring, and I
+have the ability to work on multiple projects simultaneously
 
 
 ## 🌐 Socials:
