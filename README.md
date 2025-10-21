@@ -1,7 +1,7 @@
 # 💫 About Me:
 Frontend Developer | Mobile Developer
 
-I am an ambitious 4th-year student currently pursuing a master's degree in
+I am an ambitious 5th-year student currently pursuing a master's degree in
 Cybersecurity at WSB University. Previously, I completed my bachelor's degree in
 IT in Business, specializing in front-end development.
 I am passionate about developing front-end applications and place a strong
